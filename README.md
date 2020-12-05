@@ -1,0 +1,1 @@
+# specrom_newsAPI
